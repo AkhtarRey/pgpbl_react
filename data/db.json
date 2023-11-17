@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Alek",
+      "nim": "21/123456/SV/12345",
+      "kelas": "B",
+      "icon": "dragon",
+      "color": "green",
+      "jeniskelamin": "Laki-Laki"
+    },
+    {
+      "nama": "Akhtar",
+      "nim": "21/654321/SV/54321",
+      "kelas": "A",
+      "icon": "user",
+      "color": "red",
+      "jeniskelamin": "Laki-Laki",
+      "id": 2
+    },
+    {
+      "nama": "Akhtar",
+      "nim": "21/479474/SV/19520",
+      "kelas": "A",
+      "jeniskelamin": "Laki-Laki",
+      "color": "black",
+      "icon": "user",
+      "id": 4
+    }
+  ]
+}
